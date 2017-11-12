@@ -19,12 +19,16 @@ class Utils extends Serializable {
     def gettop10(accessLogs:RDD[String], sc:SparkContext, topn:Int):Array[(String,Int)] = {
         //Keep only the lines which have IP
         var ipaccesslogs = accessLogs.filter(containsIP)
-        var cleanips = ipaccesslogs.map(extractIP(_))
+        var cleanips = ipaccesslogs.map(extractIP(_)).filter(isClassA)
         var ips_tuples = cleanips.map((_,1));
         var frequencies = ips_tuples.reduceByKey(_ + _);
         var sortedfrequencies = frequencies.sortBy(x => x._2, false)
         return sortedfrequencies.take(topn)
     }
+    
+    def isClassA(ip:String) : Boolean = {
+          ip.split('.')(0).toInt < 127
+        }
 }
 
 object EntryPoint {
@@ -55,5 +59,7 @@ object EntryPoint {
         for(i <- top10){
             println(i)
         }
+        
+
     }
 }
