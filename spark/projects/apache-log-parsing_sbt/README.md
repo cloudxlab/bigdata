@@ -13,7 +13,7 @@ Above dataset is access log of NASA Kennedy Space Center WWW server in Florida. 
 3. **request url** - Request URL.
 
 4. **HTTP reply code**
-
+hj
 5. **bytes returned by the server**
 
 Note that from 01/Aug/1995:14:52:01 until 03/Aug/1995:04:36:13 there are no accesses recorded, as the Web server was shut down, due to Hurricane Erin.

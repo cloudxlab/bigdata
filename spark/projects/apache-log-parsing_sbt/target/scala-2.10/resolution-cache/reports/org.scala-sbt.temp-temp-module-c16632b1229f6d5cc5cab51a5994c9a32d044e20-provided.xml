@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="org.scala-sbt.temp"
+		module="temp-module-c16632b1229f6d5cc5cab51a5994c9a32d044e20"
+		revision="1.1.1"
+		conf="provided"
+		confs="compile, runtime, test, provided, optional"
+		date="20200127082834"/>
+	<dependencies>
+	</dependencies>
+</ivy-report>
