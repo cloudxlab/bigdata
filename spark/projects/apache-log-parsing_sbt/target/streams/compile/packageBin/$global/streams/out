@@ -1,0 +1,27 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging F:\github-project\cloudxlab\bigdata\spark\projects\apache-log-parsing_sbt\target\scala-2.10\apache-log-parsing_2.10-0.0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\github-project\cloudxlab\bigdata\spark\projects\apache-log-parsing_sbt\target\scala-2.10\classes\com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cloudxlab\logparsing\Utils$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\github-project\cloudxlab\bigdata\spark\projects\apache-log-parsing_sbt\target\scala-2.10\classes\com\cloudxlab\logparsing\Utils$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cloudxlab\logparsing\Utils$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\github-project\cloudxlab\bigdata\spark\projects\apache-log-parsing_sbt\target\scala-2.10\classes\com\cloudxlab\logparsing\Utils$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cloudxlab\logparsing\EntryPoint$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\github-project\cloudxlab\bigdata\spark\projects\apache-log-parsing_sbt\target\scala-2.10\classes\com\cloudxlab\logparsing\EntryPoint$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cloudxlab\logparsing\Utils$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\github-project\cloudxlab\bigdata\spark\projects\apache-log-parsing_sbt\target\scala-2.10\classes\com\cloudxlab\logparsing\Utils$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cloudxlab\logparsing\Utils$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\github-project\cloudxlab\bigdata\spark\projects\apache-log-parsing_sbt\target\scala-2.10\classes\com\cloudxlab\logparsing\Utils$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cloudxlab[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\github-project\cloudxlab\bigdata\spark\projects\apache-log-parsing_sbt\target\scala-2.10\classes\com\cloudxlab[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cloudxlab\logparsing\EntryPoint.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\github-project\cloudxlab\bigdata\spark\projects\apache-log-parsing_sbt\target\scala-2.10\classes\com\cloudxlab\logparsing\EntryPoint.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cloudxlab\logparsing\Utils$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\github-project\cloudxlab\bigdata\spark\projects\apache-log-parsing_sbt\target\scala-2.10\classes\com\cloudxlab\logparsing\Utils$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cloudxlab\logparsing[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\github-project\cloudxlab\bigdata\spark\projects\apache-log-parsing_sbt\target\scala-2.10\classes\com\cloudxlab\logparsing[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cloudxlab\logparsing\Utils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\github-project\cloudxlab\bigdata\spark\projects\apache-log-parsing_sbt\target\scala-2.10\classes\com\cloudxlab\logparsing\Utils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cloudxlab\logparsing\EntryPoint$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\github-project\cloudxlab\bigdata\spark\projects\apache-log-parsing_sbt\target\scala-2.10\classes\com\cloudxlab\logparsing\EntryPoint$$anonfun$main$1.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

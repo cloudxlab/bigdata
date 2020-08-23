@@ -13,7 +13,7 @@ class SampleTest extends FunSuite with SharedSparkContext {
         val list = List(line1, line2)
         val rdd = sc.parallelize(list);
 
-        assert(rdd.count === list.length)   
+        assert(rdd.count() === list.length)   
 
         val records = utils.gettop10(rdd, sc, 10)
         assert(records.length === 1)    
